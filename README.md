@@ -1,7 +1,14 @@
-# desafio-github-markdown
+# Olá sou Francis 🤓
 
-# Olá eu sou o Francis 🤓.
----------------------------
+**Sobre mim:**
+ - ⚒️ Apaixonado por tecnologia.
+ - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UniCarioca.
+ - 🎓 Estudando programação   
+ - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+
+## Aprendendo mais sobre:
+
+
 
 
 
