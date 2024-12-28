@@ -8,6 +8,22 @@
 
 ## Aprendendo mais sobre:
 
+**1. Programação.**
+ > Javascript
+> 
+ > CSS
+> 
+ > HTML
+
+**2. Banco de Dados.**
+> SQL
+>
+> NoSQL
+
+**3. Versionamento.**
+>Git
+>
+>GitHub
 
 
 
